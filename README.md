@@ -9,6 +9,7 @@ dbname=Название БД
 'password' => 'Пароль БД'
 
 Теперь файл teamlead.sql с сервера можно удалить.
+установите компонент DatePicker при помощи команды composer:
+composer require kartik-v/yii2-widget-datepicker "@dev" 
 
-Приложение готово к работе
-
+После окончания установки приложение готово к работе
